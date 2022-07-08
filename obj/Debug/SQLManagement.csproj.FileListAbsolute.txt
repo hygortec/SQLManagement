@@ -1,0 +1,56 @@
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe.config
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\SQLManagement.pdb
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csprojResolveAssemblyReference.cache
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmPrincipal.resources
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.Properties.Resources.resources
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.GenerateResource.cache
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.CoreCompileInputs.cache
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.exe
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.pdb
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\MetroFramework.dll
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.CopyComplete
+C:\Users\Higor\source\repos\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe.config
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.pdb
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.dll
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmPrincipal.resources
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.Properties.Resources.resources
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.GenerateResource.cache
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.CoreCompileInputs.cache
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.CopyComplete
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.exe
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.pdb
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmSQLManagement.resources
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe.config
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.exe
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.pdb
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csprojResolveAssemblyReference.cache
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmSQLManagement.resources
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmPrincipal.resources
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.Properties.Resources.resources
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.GenerateResource.Cache
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.pdb
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Design.dll
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.dll
+E:\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Higor\Google Drive\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csprojResolveAssemblyReference.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe.config
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\SQLManagement.pdb
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Design.dll
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.dll
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csprojAssemblyReference.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmSQLManagement.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.frmPrincipal.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.Properties.Resources.resources
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.GenerateResource.cache
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.csproj.CopyComplete
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.exe
+F:\Nova pasta\Codigos Fonte\Develope Tool kit\SQLManagement\SQLManagement\obj\Debug\SQLManagement.pdb
